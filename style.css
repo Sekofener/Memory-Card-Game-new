@@ -5,7 +5,7 @@
     }
     body {
     height:  100vh;
-    background: #fafffe ;
+    background: #0eacf5 ;
     justify-content: center;
     align-items: center;
     display: flex;
@@ -24,7 +24,7 @@
     position: relative;
     transform-style: preserve-3d;
     transition: all 2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-    box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 15px;
+    box-shadow: rgba(165, 42, 42, 0.2) 0px 5px 15px;
     
 
 }
@@ -39,7 +39,7 @@
 }
 .back{
     backface-visibility:hidden ;
-    background: rgb(255, 255, 255)
+    background: rgb(219, 188, 10)
     
 }
 .toggleCard {
