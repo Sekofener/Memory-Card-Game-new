@@ -1,5 +1,4 @@
 Memory Card Game
-To run this project, try running index.html project in updated and latest browsers with working internet connection for downloading required libraries.
 
 What Will I Build?
 
