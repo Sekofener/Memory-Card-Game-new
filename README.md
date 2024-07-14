@@ -15,3 +15,5 @@ A player flips one card over to reveal its underlying symbol The player then tur
 # **What Will I Learn?**
 
 The memory game presents the first opportunity to fully combine HTML, CSS, and JavaScript into a large project. Aside from solidifying your skills with these three technologies, you'll learn how best to combine them in a complex application. What's the ideal workflow? How many files do you need? Do you write the HTML first? The JavaScript?
+ Access the Game 
+ [my Game]:(https://sekofener.github.io/Memory-Card-Game-new/}
