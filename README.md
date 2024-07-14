@@ -15,4 +15,3 @@ The game ends once all cards have been correctly matched.
 **What Will I Learn?**
 The memory game presents the first opportunity to fully combine HTML, CSS, and JavaScript into a large project. Aside from solidifying your skills with these three technologies, you'll learn how best to combine them in a complex application. What's the ideal workflow? How many files do you need? Do you write the HTML first? The JavaScript?
 
-![Game](https://github.com/Sekofener/Memory-Card-Game-new.git) 
