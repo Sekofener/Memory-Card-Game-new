@@ -51,4 +51,8 @@ transform: rotateY(-180deg);
 
 }
 
-
+.h2 {
+    text-align: justify;
+    font-size: medium;
+    font-family: ;
+}

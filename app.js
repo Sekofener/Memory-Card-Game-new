@@ -1,6 +1,6 @@
 const section = document.querySelector("section")
 const playerLivesCount = document.querySelector("span")
-let playerLives = 6;
+let playerLives = 7;
 
 // Link  text 
 playerLivesCount.textContent = playerLives;
