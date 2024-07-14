@@ -12,7 +12,7 @@ The Memory Game Project is all about demonstrating your mastery of HTML, CSS, an
 If you're unfamiliar with the game, the rules are very simple; flip over two hidden cards at a time to locate the ones that match!
 
 The game board consists of sixteen cards arranged randomly in a grid. The deck is made up of eight different pairs of cards, each with different pictures on one side. after each click if the cards match that card will stay 
-If the cards do not match, both cards are returned to their initial hidden state if you loose then will pop up will say **TRY AGAIN** and if matchec all will say  **YOU WON **
+If the cards do not match, both cards are returned to their initial hidden state if you loose then will pop up will say **TRY AGAIN** and if matchec all will say  **YOU WON**
 
 # **What Will I Learn?**
 
